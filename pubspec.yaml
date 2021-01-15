@@ -1,8 +1,8 @@
 name: animateloader
 description: Basic Animation loader pass the child widget to experience the loader UI 
 version: 0.0.1
-author: Rahul Swamynathan <rahul.s@customeranalytics.com>
-homepage:
+author: Rahul Swamynathan<rahulswa.rahul60@gmail.com>
+homepage: https://github.com/RahulSwamynathan/animateloader.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
